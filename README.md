@@ -52,7 +52,7 @@ rls -lH --sort size --icons /path/to/dir
 
 ## Documentation
 
-See docs/USAGE.md for detailed usage and docs/FEATURES.md for feature explanations.
+See `USAGE.md` for detailed usage.
 
 ## License
 
